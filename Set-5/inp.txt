@@ -1,0 +1,2 @@
+A grammar is left recursive if it has a non-terminal A such that there is a
+derivation. A ⇒ Aα  for some string α
